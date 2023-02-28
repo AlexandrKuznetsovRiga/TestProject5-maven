@@ -2,7 +2,7 @@
 Some code examples
 
 ### Run
-With GRADLE: 
+With MAVEN: 
 ```bash
  mvn spring-boot:run
 ```
